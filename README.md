@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=augusto-projetos&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
 ### 👋 Olá, eu sou o Luiz Augusto!
 
 <br>
@@ -9,7 +13,7 @@ Atualmente, estou cursando **Técnico em Informática pelo SENAC**, onde tenho c
 
 - 🔭 Estou sempre trabalhando em algum projeto novo para aplicar meus conhecimentos.
 - 🌱 Atualmente estou focado em aprofundar meus conhecimentos em Java e PHP.
-- 📫 Você pode me encontrar no LinkedIn: `https://linkedin.com/in/luiz-augusto-39b985367`
+- 📫 Você pode me encontrar no LinkedIn: [Luiz Augusto](https://www.linkedin.com/in/luiz-augusto-39b985367)
 
 <br>
 
@@ -17,24 +21,23 @@ Atualmente, estou cursando **Técnico em Informática pelo SENAC**, onde tenho c
 
 #### 🚀 Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js,git,vscode,github&theme=dark" />
+  </a>
+</p>
 
 <br>
 
 ---
 
-#### 📊 Minhas Estatísticas no GitHub
+#### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augusto-projetos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-projetos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augusto-projetos&show_icons=true&theme=dracula" alt="Augusto Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-projetos&layout=compact&langs_count=7&theme=dracula" alt="Augusto Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augusto-projetos&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
