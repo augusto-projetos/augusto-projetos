@@ -9,7 +9,7 @@
 #### 👨‍💻 Sobre Mim
 Sou um estudante de tecnologia focado em desenvolvimento de software, buscando transformar ideias em soluções práticas.
 
-Atualmente, estou cursando **Técnico em Informática pelo SENAC**, onde tenho construído uma base sólida em lógica de programação e desenvolvimento back-end. Meus projetos atuais incluem aplicações em Java (com foco em POO) e sistemas web com PHP e MySQL.
+Atualmente, sou formado em **Técnico em Informática pelo SENAC**, onde tenho construído uma base sólida em lógica de programação e desenvolvimento back-end e front-end. Meus projetos atuais incluem aplicações em Java (com foco em POO) e sistemas web com PHP e MySQL.
 
 - 🔭 Estou sempre trabalhando em algum projeto novo para aplicar meus conhecimentos.
 - 🌱 Atualmente estou focado em aprofundar meus conhecimentos em Java e PHP.
@@ -34,8 +34,8 @@ Atualmente, estou cursando **Técnico em Informática pelo SENAC**, onde tenho c
 #### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augusto-projetos&show_icons=true&theme=dracula" alt="Augusto Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-projetos&layout=compact&langs_count=7&theme=dracula" alt="Augusto Langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=augusto-projetos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Augusto Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-projetos&layout=compact&langs_count=7&theme=dracula" alt="Augusto Langs"/>
 </p>
 
 <p align="center">
