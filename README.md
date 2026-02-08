@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=augusto-projetos&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
 ### 👋 Olá, eu sou o Luiz Augusto!
 
 <br>
@@ -34,10 +30,5 @@ Atualmente, sou formado em **Técnico em Informática pelo SENAC**, onde tenho c
 #### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=augusto-projetos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Augusto Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-projetos&layout=compact&langs_count=7&theme=dracula" alt="Augusto Langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augusto-projetos&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github.com/augusto-projetos/augusto-projetos/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </p>
