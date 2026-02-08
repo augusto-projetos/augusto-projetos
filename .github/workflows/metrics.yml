@@ -29,7 +29,6 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           
-          # --- Conquistas ---
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          # --- Calendário 3D ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
