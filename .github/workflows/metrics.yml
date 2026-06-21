@@ -37,3 +37,4 @@ jobs:
           # --- Calendário 3D ---
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          
