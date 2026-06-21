@@ -23,6 +23,11 @@ jobs:
           config_timezone: America/Sao_Paulo
           config_theme: dracula
           
+          # --- Configuração de Output para não poluir a main ---
+          filename: github-metrics.svg
+          committer_branch: metrics-renders
+          output_action: commit
+
           # --- Linguagens ---
           plugin_languages: yes
           plugin_languages_ignored: html, css
