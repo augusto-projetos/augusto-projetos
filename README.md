@@ -57,7 +57,7 @@ Sou estudante de **Engenharia de Software (BICT)** na **Universidade Federal de 
 ### 🐍 Contribuições (Snake Game)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/augusto-projetos/augusto-projetos/snake-renders/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
 </p>
 
 ---
