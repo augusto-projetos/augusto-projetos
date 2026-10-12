@@ -18,9 +18,9 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Software (BICT)** na **Universidade Federal de Lavras (UFLA)** e **Técnico em Informática pelo SENAC**. Tenho foco no desenvolvimento de aplicações eficientes, utilizando boas práticas de arquitetura de software, Programação Orientada a Objetos e padronização de versionamento com *Conventional Commits*.
+Estou graduando o curso de **Bacharelado Interdisciplinar em Inovação, Ciência e Tecnologia (BICT)** e **Engenharia de Software** na **Universidade Federal de Lavras (UFLA)** e sou formado em **Técnico em Informática pelo SENAC MG**. Tenho foco no desenvolvimento de aplicações eficientes, utilizando boas práticas de arquitetura de software, Programação Orientada a Objetos e padronização de versionamento com *Conventional Commits*.
 
-* 🎓 **Formação:** Técnico em Informática (SENAC) | Cursando Bacharelado Interdisciplinar em Ciência e Tecnologia (BICT) - Engenharia de Software (UFLA)
+* 🎓 **Formação:** Técnico em Informática (SENAC MG) | Cursando Bacharelado Interdisciplinar em Inovação, Ciência e Tecnologia (BICT) - Engenharia de Software (UFLA)
 * 💡 **Interesses:** Arquitetura de Software, APIs RESTful, Sistemas Distribuídos e Bancos de Dados Relacionais
 * 🎯 **Foco Atual:** Aprofundamento no ecossistema Java (Spring Boot) e desenvolvimento web moderno
 
